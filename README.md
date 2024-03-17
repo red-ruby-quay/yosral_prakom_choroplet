@@ -1,0 +1,5 @@
+# Tugas Area TI Spesial Angkatan I (Apriliya Puput Nadea)
+
+*Oleh **Rihan Yosral (31)** - Direktorat Sistem Informasi Statistik, BPS RI*
+
+Tugas ini sebagai prasyarat diklat fungsional pranata komputer yang sedang diselenggarakan oleh Pusdiklat BPS RI per tahun 2024.
