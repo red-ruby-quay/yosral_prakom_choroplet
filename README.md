@@ -1,4 +1,4 @@
-# Tugas Area TI Spesial Angkatan I (Apriliya Puput Nadea)
+# Tugas Pranata Komputer Angkatan I
 
 *Oleh **Rihan Yosral (31)** - Direktorat Sistem Informasi Statistik, BPS RI*
 
